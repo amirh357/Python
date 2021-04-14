@@ -17,4 +17,6 @@ for i in range(1, max_size + 1):
 
     print(" " * (max_size - i) + "*" * i)
 
+Print("test was successful")
+
 
